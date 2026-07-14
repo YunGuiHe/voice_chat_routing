@@ -1,0 +1,4 @@
+interface:
+  display_name: "语音助手聊天路由"
+  short_description: "支持多轮上下文和长期记忆的中文语音助手工作流"
+  default_prompt: "使用 $voice-chat-routing 结合当前会话和用户记忆处理这条中文输入。"

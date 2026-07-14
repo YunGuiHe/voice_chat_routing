@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+.env
+api.md
+.venv/
+venv/
+outputs/
+.state/
+*.sqlite3
+/.vscode/
+/AGENTS.md
+/docs/
+/课题研究.png
